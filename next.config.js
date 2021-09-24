@@ -12,6 +12,9 @@ module.exports = {
       'www.dofus-touch.com',
       'sephyka.com',
       'cdna.artstation.com',
-      'https://images8.alphacoders.com'],
+      'https://images8.alphacoders.com',
+      'external-iad3-1.xx.fbcdn.net',
+      'graph.facebook.com',
+    ],
   },
 }

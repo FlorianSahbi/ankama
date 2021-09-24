@@ -1,0 +1,47 @@
+.root {
+  width: 300px;
+  border: 1px solid rgba(192, 192, 192, 0.82);
+}
+
+.header {
+  height: 250px;
+  width: 100%;
+  position: relative;
+}
+
+.middle {
+  width: 100%;
+  position: relative;
+  padding: 24px;
+}
+
+.article {
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+  color: #3B3B3B;
+  line-height: 20px;
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid rgba(192, 192, 192, 0.82);
+  padding: 6px;
+}
+
+.avatar {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  margin-right: 12px;
+}
+
+.name {
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+  color: #3B3B3B;
+}

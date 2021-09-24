@@ -1,3 +1,47 @@
+export const news = [
+  {
+    id: "1n",
+    preview: "https://external-iad3-1.xx.fbcdn.net/safe_image.php?d=AQGYtBb7MuNIUyyZ&w=1280&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ful_f_2Va5dU%2Fmaxresdefault.jpg&crop&_nc_oe=6ebc9&_nc_sid=06c271&ccb=3-5&_nc_hash=AQH_f4S4oBHXUkCg",
+    article: "À l'occasion de la sortie du 2e tome de DANS LA TÊTE DE SHERLOCK HOLMES, les dessins de Benoit Dahan sont exposés à la galerie Art-Maniak de Paris ! Du 24 septembre au 16 octobre, vous pourrez y admirer les planches originales ainsi que des illustr...",
+    avatar: "https://graph.facebook.com/660094070805571/picture?type=square",
+    name: "Ankama Editions",
+  },
+  {
+    id: "2n",
+    preview: "https://external-iad3-1.xx.fbcdn.net/safe_image.php?d=AQGYtBb7MuNIUyyZ&w=1280&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ful_f_2Va5dU%2Fmaxresdefault.jpg&crop&_nc_oe=6ebc9&_nc_sid=06c271&ccb=3-5&_nc_hash=AQH_f4S4oBHXUkCg",
+    article: "À l'occasion de la sortie du 2e tome de DANS LA TÊTE DE SHERLOCK HOLMES, les dessins de Benoit Dahan sont exposés à la galerie Art-Maniak de Paris ! Du 24 septembre au 16 octobre, vous pourrez y admirer les planches originales ainsi que des illustr...",
+    avatar: "https://graph.facebook.com/660094070805571/picture?type=square",
+    name: "Ankama Editions",
+  },
+  {
+    id: "3n",
+    preview: "https://external-iad3-1.xx.fbcdn.net/safe_image.php?d=AQGYtBb7MuNIUyyZ&w=1280&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ful_f_2Va5dU%2Fmaxresdefault.jpg&crop&_nc_oe=6ebc9&_nc_sid=06c271&ccb=3-5&_nc_hash=AQH_f4S4oBHXUkCg",
+    article: "À l'occasion de la sortie du 2e tome de DANS LA TÊTE DE SHERLOCK HOLMES, les dessins de Benoit Dahan sont exposés à la galerie Art-Maniak de Paris ! Du 24 septembre au 16 octobre, vous pourrez y admirer les planches originales ainsi que des illustr...",
+    avatar: "https://graph.facebook.com/660094070805571/picture?type=square",
+    name: "Ankama Editions",
+  },
+  {
+    id: "4n",
+    preview: "https://external-iad3-1.xx.fbcdn.net/safe_image.php?d=AQGYtBb7MuNIUyyZ&w=1280&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ful_f_2Va5dU%2Fmaxresdefault.jpg&crop&_nc_oe=6ebc9&_nc_sid=06c271&ccb=3-5&_nc_hash=AQH_f4S4oBHXUkCg",
+    article: "À l'occasion de la sortie du 2e tome de DANS LA TÊTE DE SHERLOCK HOLMES, les dessins de Benoit Dahan sont exposés à la galerie Art-Maniak de Paris ! Du 24 septembre au 16 octobre, vous pourrez y admirer les planches originales ainsi que des illustr...",
+    avatar: "https://graph.facebook.com/660094070805571/picture?type=square",
+    name: "Ankama Editions",
+  },
+  {
+    id: "5n",
+    preview: "https://external-iad3-1.xx.fbcdn.net/safe_image.php?d=AQGYtBb7MuNIUyyZ&w=1280&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ful_f_2Va5dU%2Fmaxresdefault.jpg&crop&_nc_oe=6ebc9&_nc_sid=06c271&ccb=3-5&_nc_hash=AQH_f4S4oBHXUkCg",
+    article: "À l'occasion de la sortie du 2e tome de DANS LA TÊTE DE SHERLOCK HOLMES, les dessins de Benoit Dahan sont exposés à la galerie Art-Maniak de Paris ! Du 24 septembre au 16 octobre, vous pourrez y admirer les planches originales ainsi que des illustr...",
+    avatar: "https://graph.facebook.com/660094070805571/picture?type=square",
+    name: "Ankama Editions",
+  },
+  {
+    id: "6n",
+    preview: "https://external-iad3-1.xx.fbcdn.net/safe_image.php?d=AQGYtBb7MuNIUyyZ&w=1280&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ful_f_2Va5dU%2Fmaxresdefault.jpg&crop&_nc_oe=6ebc9&_nc_sid=06c271&ccb=3-5&_nc_hash=AQH_f4S4oBHXUkCg",
+    article: "À l'occasion de la sortie du 2e tome de DANS LA TÊTE DE SHERLOCK HOLMES, les dessins de Benoit Dahan sont exposés à la galerie Art-Maniak de Paris ! Du 24 septembre au 16 octobre, vous pourrez y admirer les planches originales ainsi que des illustr...",
+    avatar: "https://graph.facebook.com/660094070805571/picture?type=square",
+    name: "Ankama Editions",
+  },
+]
 
 export const companyB = [
     {
