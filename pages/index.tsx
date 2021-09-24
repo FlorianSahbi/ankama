@@ -10,7 +10,7 @@ import Footer from "../components/Footer";
 import Work from "../components/Work";
 import News from "../components/News";
 
-const BlockInfo = ({ color, title }) => {
+const BlockInfo = ({ color, title }: any) => {
   return (
     <div style={{ borderTop: `6px solid ${color}`, width: "100%", position: "relative", fontFamily: "Roboto", display: "flex", justifyContent: "center" }}>
       <div style={{ textTransform: "uppercase", textAlign: "center", background: "#E7A300", width: "500px", padding: "24px 12px", fontSize: "30px", fontFamily: "Lato", fontWeight: 900, color: "white" }}>
@@ -66,7 +66,7 @@ const Home: NextPage = () => {
         <div style={{ display: "grid", gridTemplateColumns: "repeat(3, auto)", gap: "24px", padding: "24px", width: "auto", justifyContent: "center", alignContent: "space-between", alignItems: "start" }}>
           {news.map(({ id, preview, article, avatar, name }) => <News key={id} preview={preview} article={article} avatar={avatar} name={name} />)}
         </div>
-        
+
         <Footer />
       </div>
     </>
