@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "../styles/Header.module.css";
-import { menus_1, menus_2 } from "../pages/data";
+import { menus_1, menus_2 } from "../data";
 
 const HeaderButton = ({ svg, title, url }) => {
   return (

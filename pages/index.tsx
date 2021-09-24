@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { useState } from 'react'
 import styles from '../styles/Home.module.css'
-import { companyB, carousel, sections, carousel_2, news } from "./data";
+import { companyB, carousel, sections, carousel_2, news } from "../data";
 import Carousel from "../components/Carousel";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
